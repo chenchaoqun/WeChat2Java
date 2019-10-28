@@ -7,8 +7,6 @@ import remote.entity.Message;
 import remote.message.SendMessage;
 
 import java.io.IOException;
-import java.util.LinkedList;
-import java.util.List;
 
 /**
  * 处理微信接收的消息
